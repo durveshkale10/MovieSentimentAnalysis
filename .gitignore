@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Data files
+data/
+*.csv
+*.gz
+
+# Model files
+models/
+*.pkl
+
+# Jupyter checkpoints
+notebooks/.ipynb_checkpoints/
+
+# System files
+__pycache__/
+*.log
